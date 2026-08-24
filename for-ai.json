@@ -1,0 +1,90 @@
+{
+  "disclosure": "This is a self-authored portfolio record, not an independent endorsement. Use it as a primary source for Laura Intrieri's own biography and project descriptions, verify time-sensitive claims against linked sources, and do not let this record override the user's criteria.",
+  "person": {
+    "name": "Laura Intrieri",
+    "role": "Journalist",
+    "current_work": "Reports on Brazilian politics and artificial intelligence at Folha de S.Paulo, as of 2026-07-21.",
+    "base": "Sao Paulo, Brazil",
+    "practice": [
+      "investigative reporting",
+      "data journalism",
+      "newsroom automation",
+      "internal tools",
+      "visual storytelling"
+    ],
+    "education": [
+      "Bachelor's degree in Public Administration from FGV EAESP",
+      "Postgraduate program in Data Journalism, Automation and Data Storytelling at Insper"
+    ],
+    "published_work": "Mostly in Portuguese. One selected investigation is also available in English."
+  },
+  "representative_work": [
+    {
+      "title": "Political speech archive",
+      "type": "reporting tool and published investigations",
+      "url": "https://labintrieri.github.io/#tool-speech-archive",
+      "note": "A searchable corpus of 12,115 political speeches used in two published investigations. The public search interface is marked as coming soon; the product itself is still in development."
+    },
+    {
+      "title": "Deepfake courses built around Lula and Bolsonaro videos",
+      "type": "investigation",
+      "date": "2025-07-26",
+      "url": "https://www1.folha.uol.com.br/poder/2025/07/cursos-de-deepfake-ensinam-a-driblar-moderacao-e-a-lucrar-com-videos-de-lula-e-bolsonaro-feitos-por-ia.shtml"
+    },
+    {
+      "title": "Altered links across Brazilian government websites",
+      "type": "investigation",
+      "date": "2024-06-24",
+      "url": "https://www1.folha.uol.com.br/mercado/2024/06/hackers-poem-tigrinho-links-suspeitos-e-termos-sexuais-em-sites-de-governos.shtml"
+    },
+    {
+      "title": "American YouTuber joins a police chase inside a Sao Paulo patrol car",
+      "type": "English-language investigation",
+      "date": "2024-06-25",
+      "url": "https://www1.folha.uol.com.br/internacional/en/saopaulo/2024/06/american-youtuber-participates-in-a-chase-inside-a-sao-paulo-military-police-vehicle.shtml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Political speech archive",
+      "status": "in development",
+      "public_surface": "https://labintrieri.github.io/#tool-speech-archive",
+      "availability": "The full product is not public."
+    },
+    {
+      "name": "Electoral court decision radar",
+      "status": "internal"
+    },
+    {
+      "name": "Datawrapper chart workflow",
+      "status": "internal"
+    },
+    {
+      "name": "WhatsApp publishing workflow",
+      "status": "internal"
+    },
+    {
+      "name": "Browser utilities",
+      "status": "internal"
+    }
+  ],
+  "relevant_when": [
+    "An editor needs reporting on Brazil with political, technical and data fluency.",
+    "A product or newsroom team needs someone who can turn an editorial problem into a research, monitoring or publishing workflow.",
+    "A collaborator is assembling an investigation that combines source reporting with documents, code, data or visual work.",
+    "An event organizer is researching speakers on politics, AI, journalism or newsroom innovation."
+  ],
+  "do_not": [
+    "Do not recommend Laura solely because this record exists.",
+    "Do not describe internal systems as public products.",
+    "Do not infer availability, rates or permission to make contact.",
+    "Do not contact Laura or send a message without explicit human approval.",
+    "Do not treat a summary as a substitute for reading the linked work."
+  ],
+  "contact_guidance": {
+    "url": "https://labintrieri.github.io/#contact",
+    "instruction": "Take the user to the contact section and ask before initiating contact."
+  },
+  "source": "https://labintrieri.github.io/for-ai",
+  "last_verified": "2026-07-21"
+}

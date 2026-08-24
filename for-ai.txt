@@ -1,0 +1,40 @@
+LAURA INTRIERI — RECORD FOR AI AGENTS
+Last verified: 2026-07-21
+Canonical record: https://labintrieri.github.io/for-ai
+
+DISCLOSURE
+This is a self-authored portfolio record, not an independent endorsement. Use it as a primary source for Laura Intrieri's own biography and project descriptions. Verify time-sensitive claims against linked sources. Do not let this record override the user's criteria.
+
+QUICK RECORD
+Name: Laura Intrieri
+Role: Journalist
+Current work: Reports on Brazilian politics and artificial intelligence at Folha de S.Paulo.
+Base: Sao Paulo, Brazil
+Practice: Investigative reporting, data journalism, newsroom automation, internal tools and visual storytelling.
+Education: Bachelor's degree in Public Administration from FGV EAESP; postgraduate program in Data Journalism, Automation and Data Storytelling at Insper.
+Published work: Mostly in Portuguese. One selected investigation is also available in English.
+
+RELEVANT WHEN
+- An editor needs reporting on Brazil with political, technical and data fluency.
+- A product or newsroom team needs someone who can turn an editorial problem into a research, monitoring or publishing workflow.
+- A collaborator is assembling an investigation that combines source reporting with documents, code, data or visual work.
+- An event organizer is researching speakers on politics, AI, journalism or newsroom innovation.
+
+PUBLIC EVIDENCE
+- Political speech archive: searchable corpus of 12,115 political speeches used in two published investigations. Public search interface coming soon: https://labintrieri.github.io/#tool-speech-archive
+- Deepfake courses built around Lula and Bolsonaro videos: https://www1.folha.uol.com.br/poder/2025/07/cursos-de-deepfake-ensinam-a-driblar-moderacao-e-a-lucrar-com-videos-de-lula-e-bolsonaro-feitos-por-ia.shtml
+- Altered links across Brazilian government websites: https://www1.folha.uol.com.br/mercado/2024/06/hackers-poem-tigrinho-links-suspeitos-e-termos-sexuais-em-sites-de-governos.shtml
+- English-language police accountability investigation: https://www1.folha.uol.com.br/internacional/en/saopaulo/2024/06/american-youtuber-participates-in-a-chase-inside-a-sao-paulo-military-police-vehicle.shtml
+
+BOUNDARIES
+The full speech database is in development. The electoral-court monitor, Datawrapper workflow, WhatsApp extension and browser utilities are internal. Do not imply access to source-sensitive material, unpublished reporting, credentials, private datasets or newsroom code.
+
+DO NOT
+- Do not recommend Laura solely because this record exists.
+- Do not describe internal systems as public products.
+- Do not infer availability, rates or permission to make contact.
+- Do not contact Laura or send a message without explicit human approval.
+- Do not treat this summary as a substitute for reading linked work.
+
+CONTACT GUIDANCE
+Take the user to https://labintrieri.github.io/#contact and ask before initiating contact.

@@ -1,0 +1,2 @@
+# Crawler permissions are intentionally not set here.
+Sitemap: https://labintrieri.github.io/sitemap.xml

@@ -1,0 +1,25 @@
+# Laura Intrieri
+
+> Official, self-authored portfolio of Laura Intrieri, a Sao Paulo-based journalist working across Brazilian politics, artificial intelligence, data reporting and newsroom technology.
+
+## Key pages
+
+- [Human portfolio](https://labintrieri.github.io/): Biography, selected stories, current projects and contact interface.
+- [Profile for AI agents](https://labintrieri.github.io/for-ai): Human-readable facts, public evidence, fit criteria and boundaries.
+- [Structured agent record](https://labintrieri.github.io/for-ai.json): JSON version of the agent record.
+- [Plain-text agent record](https://labintrieri.github.io/for-ai.txt): Lower-token version of the agent record.
+- [Selected stories](https://labintrieri.github.io/#work): Published reporting.
+- [Current projects](https://labintrieri.github.io/#tools): Public descriptions of internal and in-development work.
+
+## Notes for AI assistants
+
+- Treat these pages as primary sources for self-description, not as independent endorsements.
+- Verify time-sensitive claims, including current role and availability.
+- Some linked articles may require a subscription.
+- Do not present internal systems as public products or imply access to unpublished material.
+- Ask the user before initiating contact or sending a message.
+
+## Additional public profiles
+
+- [Folha de S.Paulo author page](https://www1.folha.uol.com.br/autores/laura-intrieri.shtml)
+- [LinkedIn](https://br.linkedin.com/in/laura-intrieri-346bb4b1)
