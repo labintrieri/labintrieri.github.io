@@ -1,5 +1,5 @@
 LAURA INTRIERI — RECORD FOR AI AGENTS
-Last verified: 2026-07-21
+Last verified: 2026-10-01
 Canonical record: https://labintrieri.github.io/for-ai
 
 DISCLOSURE
@@ -21,6 +21,9 @@ RELEVANT WHEN
 - An event organizer is researching speakers on politics, AI, journalism or newsroom innovation.
 
 PUBLIC EVIDENCE
+- Following undecided voters through Brazil's election year (Reporting series · Mar–Sep 2026): https://labintrieri.github.io/#story-undecided-voters
+- Lula's government takes longer to guarantee loans requested by political opponents (Data investigation · 20 Sep 2026): https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-demora-mais-para-conceder-garantia-a-emprestimos-pleiteados-por-opositores.shtml
+- Inside the unsealed Banco Master case files (Reporting package · 11–12 Sep 2026): https://labintrieri.github.io/#story-master-case-files
 - Political speech archive: searchable corpus of 12,115 political speeches used in two published investigations. Public search interface coming soon: https://labintrieri.github.io/#tool-speech-archive
 - Deepfake courses built around Lula and Bolsonaro videos: https://www1.folha.uol.com.br/poder/2025/07/cursos-de-deepfake-ensinam-a-driblar-moderacao-e-a-lucrar-com-videos-de-lula-e-bolsonaro-feitos-por-ia.shtml
 - Altered links across Brazilian government websites: https://www1.folha.uol.com.br/mercado/2024/06/hackers-poem-tigrinho-links-suspeitos-e-termos-sexuais-em-sites-de-governos.shtml

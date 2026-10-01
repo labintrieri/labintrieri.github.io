@@ -20,6 +20,27 @@
   },
   "representative_work": [
     {
+      "title": "Following undecided voters through Brazil's election year",
+      "type": "Reporting series · Mar–Sep 2026",
+      "date": "2026-09-26",
+      "url": "https://labintrieri.github.io/#story-undecided-voters",
+      "note": "A reporting series following voters first interviewed in March, with follow-ups in June and September 2026."
+    },
+    {
+      "title": "Lula's government takes longer to guarantee loans requested by political opponents",
+      "type": "Data investigation · 20 Sep 2026",
+      "date": "2026-09-20",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-demora-mais-para-conceder-garantia-a-emprestimos-pleiteados-por-opositores.shtml",
+      "note": "Reporting with Idiana Tomazelli comparing federal loan-guarantee approval times for states and capitals. The Finance Ministry and presidential chief of staff denied political discrimination."
+    },
+    {
+      "title": "Inside the unsealed Banco Master case files",
+      "type": "Reporting package · 11–12 Sep 2026",
+      "date": "2026-09-12",
+      "url": "https://labintrieri.github.io/#story-master-case-files",
+      "note": "Six bylined or co-bylined reports on unsealed investigation records, covering access to prosecutors' files, law-firm contracts, Central Bank officials' trips, Supreme Court disputes and the financing of Dark Horse."
+    },
+    {
       "title": "Political speech archive",
       "type": "reporting tool and published investigations",
       "url": "https://labintrieri.github.io/#tool-speech-archive",
@@ -86,5 +107,5 @@
     "instruction": "Take the user to the contact section and ask before initiating contact."
   },
   "source": "https://labintrieri.github.io/for-ai",
-  "last_verified": "2026-07-21"
+  "last_verified": "2026-10-01"
 }
